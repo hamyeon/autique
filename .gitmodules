@@ -1,0 +1,8 @@
+[submodule "autique-be-ai"]
+	path = autique-be-ai
+	url = https://github.com/hamyeon/autique-be-ai.git
+	branch = main
+[submodule "autique-fe"]
+	path = autique-fe
+	url = https://github.com/hamyeon/autique-fe.git
+	branch = main
