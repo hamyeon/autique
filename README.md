@@ -117,7 +117,7 @@ flowchart LR
 
 ## ⚙️ Teck Stack
 
-<img width="1672" height="941" alt="601919414-d4478044-b181-477e-8201-367f578b565b" src="https://github.com/user-attachments/assets/7db8a0de-fe84-4f46-883b-ecc4ea783293" />
+<img width="3840" height="1800" alt="autique-tech-stack-2" src="https://github.com/user-attachments/assets/4a0b3325-aa86-409d-955b-5902d6c87eb0" />
 
 
 ## ⚒️ Devlopers
